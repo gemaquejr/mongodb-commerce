@@ -1,19 +1,15 @@
-# MySql All For One
+# MongoDB Commerce
 
-Essa aplicação foi desenvolvida em MySQL.
-
-![preview](.github/preview.gif)
+Essa aplicação foi desenvolvida para um banco de dados em MongoDB.
 
 Aplicação que consiste em fazer a normalização e modelagem de banco de dados.
 
-O projeto foi para praticar todos os conceitos de SQL aprendidos, resolvendo uma série de desafios com diferentes níveis de complexidade, que foram resolvidos cada um em seu arquivo próprio.
+O projeto foi para praticar todos os conceitos MongoDB aprendidos, resolvendo uma série de desafios com diferentes níveis de complexidade, que foram resolvidos cada um em seu arquivo próprio.
 
 
 ## 🚀 Tecnologia
 
-- ⚡ MySQL é um sistema de gerenciamento de banco de dados, que utiliza a linguagem SQL como interface.
-
-- ⚡ MySQL Workbench é uma ferramenta de design de banco de dados visual que integra desenvolvimento SQL, administração, design de banco de dados, criação     e manutenção em um único ambiente de desenvolvimento integrado para o sistema de banco de dados MySQL.
+- ⚡ MongoDB é um software de banco de dados orientado a documentos livre, de código aberto e multiplataforma, escrito na linguagem C++.
 
 ## ✋🏻 Pré-requisitos
 
